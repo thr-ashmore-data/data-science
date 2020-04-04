@@ -9,3 +9,5 @@ Deep learning (imbalanced) classification project to match scraped adverts to pr
 6) Train deep learning neural network (featuring word vector embeddings, 1D convolutions and GlobalMaxPooling for feature selection, and a deep, densely connected forward feed secion for classification).
 7) Test the trained netowrk and produce plots to examine optimal predictive cutoffs.
 
+![](images/dl.jpg)
+
