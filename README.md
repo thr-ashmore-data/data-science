@@ -1,5 +1,5 @@
 # data-science
-Deep learning (imbalanced) classification project to match scraped adverts to products.
+Deep learning (imbalanced) classification project to match scraped adverts to products. Case study uses HGV adverts.
 
 1) Scrape advert data.
 2) Process scraped text to generate clean advert text blocks.
